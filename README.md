@@ -12,7 +12,7 @@ I am a 21-year-old Information Systems student passionate about software develop
 
 ### 🛠️ Languages and Tools
 
-* **Backend & Languages:** Java, Node.js, SQL
+* **Backend & Languages:** Java, Node.js, SQL, TypeScript, C, C++
 * **Tools & Concepts:** Git, Hibernate, Microservices architecture, Machine Learning
 * **Foundations:** Data Structures, Linear Algebra
 
