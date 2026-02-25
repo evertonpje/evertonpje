@@ -21,7 +21,7 @@ I am a 21-year-old Information Systems student passionate about software develop
 ### 📫 Let's Connect!
 
 * **LinkedIn:** [Your LinkedIn URL here](https://www.linkedin.com/in/everton-moura-447679271/)
-* **Email:** (evertonpje@gmail.com)
+* **Email:** evertonpje@gmail.com
 * **Portfolio:** [building]
 ---
 ⭐️ *Thanks for stopping by my profile!*
